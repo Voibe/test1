@@ -1,9 +1,1 @@
-{
-  "Persona":[
-    {
-      "nome": "Inserire name",
-      "cognome": "Inserire cognome"
-    }
-
-  ]
-}
+{"TEST": {"Sensore": {"name": "nome sensore", "type": "tipologia sensore", "Misura": {"value": "valore della misura", "unit": "unit\u00e0 di misura", "date": "data completa"}}}}
